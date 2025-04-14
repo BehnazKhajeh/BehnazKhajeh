@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Behnaz
 
-<!--
-**BehnazKhajeh/BehnazKhajeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **IoT**, **Digital Twins**, and **Cyber-Physical Systems**.  
+Currently exploring topics like **Human-Computer Interaction** and **AI Systems Modeling**.
 
-Here are some ideas to get you started:
+🔭 Projects:  
+- 🚀 Blockchain-based Digital Twin for Cyber-Physical Systems  
+- 🤖 Robotic Arm Digital Twin using Mitsubishi RV-1A  
+- 📡 IoT Lab Work with 5G & Wireless Communication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I enjoy teaching and have been a TA in Computer Architecture and Microprocessors.  
+🌱 I’m also into hiking, yoga, and reading novels like *Harry Potter*.
+
+📫 How to reach me: behnaz.khajeh@email.com
