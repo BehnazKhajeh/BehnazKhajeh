@@ -1,15 +1,64 @@
-### Hi there 👋 I'm Behnaz
+<h1 align="center">Hi, I'm Behnaz Khajeh 🌸</h1>
 
-I'm passionate about **IoT**, **Digital Twins**, and **Cyber-Physical Systems**.  
-Currently exploring topics like **Human-Computer Interaction** and **AI Systems Modeling**.
+<p align="center">
+  A passionate researcher in <strong>IoT</strong>, <strong>Cyber-Physical Systems</strong>, and <strong>Digital Twins</strong>.  
+  Currently exploring <strong>Human-Computer Interaction</strong> and <strong>AI Systems Modeling</strong>.
+</p>
 
-🔭 Projects:  
-- 🚀 Blockchain-based Digital Twin for Cyber-Physical Systems  
-- 🤖 Robotic Arm Digital Twin using Mitsubishi RV-1A  
-- 📡 IoT Lab Work with 5G & Wireless Communication  
+---
 
-📚 I enjoy teaching and have been a TA in Computer Architecture and Microprocessors.  
-🌱 I’m also into hiking, yoga, and reading novels like *Harry Potter*.
+### 🎓 Education
+- M.Sc. in Computer Engineering – University of Isfahan, Iran  
+  Thesis: **Blockchain-based Digital Twin for Cyber-Physical Systems**
+- B.Sc. in Computer Engineering – Shiraz University, Iran
 
-📫 Reach me: [behnaz.khajeh@email.com](mailto:behnaz.khajeh@email.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/behnaz-khajeh) 
+---
+
+### 🔬 Research Interests
+- IoT and Embedded Systems  
+- Digital Twin Technologies  
+- Wireless Communication (4G/5G)  
+- Human-Computer Interaction (HCI)  
+- Usable Security & End-User Behavior
+
+---
+
+### 🧪 Lab & Project Experience
+- 🦾 **Digital Twin for Mitsubishi Robotic Arm (RV-1A)**  
+  Designed a secure, blockchain-integrated DT for real-time monitoring and updates.
+
+- 📶 **IoT and 5G Lab Experience**  
+  Practical work with wireless communication technologies and cyber-physical systems.
+
+- 👩‍🏫 **Teaching Assistant**  
+  Courses: Computer Architecture, Microprocessors  
+  Passionate about teaching and helping students succeed.
+
+---
+
+### 🛠️ Skills
+- Programming: Python, C/C++, Verilog, MATLAB  
+- Tools: Docker, Kubernetes, Git  
+- OS: Unix/Linux  
+- Others: Digital Design, Embedded Boards, FPGA (CORDIC, ATmega)
+
+---
+
+### 💖 Fun Facts
+- 🧘‍♀️ Yoga and hiking are my weekend therapies  
+- 📚 Love fantasy novels — a huge *Harry Potter* fan  
+- 🧩 I enjoy solving problems and designing systems that matter
+
+---
+
+### 📫 Contact
+[📧 Email](mailto:behnaz.khajeh@email.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/behnazkhajeh)  
+[📖 Google Scholar](https://scholar.google.com/citations?user=yourID)  
+[🌐 Personal Website](https://behnazkhajeh.github.io)
+
+---
+
+<p align="center">
+  💬 Feel free to reach out — I’m always excited to collaborate or talk research!
+</p>
