@@ -9,7 +9,6 @@
 
 ### 🎓 Education
 - M.Sc. in Computer Engineering – University of Isfahan, Iran  
-  Thesis: **Blockchain-based Digital Twin for Cyber-Physical Systems**
 - B.Sc. in Computer Engineering – Shiraz University, Iran
 
 ---
@@ -17,18 +16,13 @@
 ### 🔬 Research Interests
 - IoT and Embedded Systems  
 - Digital Twin Technologies  
-- Wireless Communication (4G/5G)  
-- Human-Computer Interaction (HCI)  
-- Usable Security & End-User Behavior
+
 
 ---
 
 ### 🧪 Lab & Project Experience
 - 🦾 **Digital Twin for Mitsubishi Robotic Arm (RV-1A)**  
   Designed a secure, blockchain-integrated DT for real-time monitoring and updates.
-
-- 📶 **IoT and 5G Lab Experience**  
-  Practical work with wireless communication technologies and cyber-physical systems.
 
 - 👩‍🏫 **Teaching Assistant**  
   Courses: Computer Architecture, Microprocessors  
