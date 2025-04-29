@@ -2,7 +2,7 @@
 
 <p align="center">
   A passionate researcher in <strong>IoT</strong>, <strong>Cyber-Physical Systems</strong>, and <strong>Digital Twins</strong>.  
-  Currently exploring <strong>Human-Computer Interaction</strong> and <strong>AI Systems Modeling</strong>.
+ پ
 </p>
 
 ---
