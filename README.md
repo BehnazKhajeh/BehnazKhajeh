@@ -32,7 +32,7 @@
 
 ### 🛠️ Skills
 - Programming: Python, C/C++, Verilog, MATLAB  
-- Tools: Docker, Kubernetes, Git  
+- Tools:  Git  
 - OS: Unix/Linux  
 - Others: Digital Design, Embedded Boards, FPGA (CORDIC, ATmega)
 
