@@ -113,6 +113,4 @@ My current research direction connects:
 
 ---
 
-<p align="center">
-  💡 Interested in AI, intelligent systems, and research-driven engineering.
-</p>
+
