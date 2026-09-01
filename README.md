@@ -1,34 +1,26 @@
-<h1 align="center">Hi, I'm Behnaz Khajeh 🌸</h1>
+<h2 align="center">Hi, I'm Behnaz Khajeh 🌸</h2>
 
 <p align="center">
-  <strong>M.Sc. in Computer Engineering | AI & Reinforcement Learning Researcher</strong>
+  <sub><strong>AI & Reinforcement Learning Researcher | M.Sc. in Computer Engineering</strong></sub>
 </p>
 
 <p align="center">
+  <sub>
   🤖 Reinforcement Learning & AI &nbsp;|&nbsp;
   🧠 Intelligent Optimization &nbsp;|&nbsp;
   ☁️ Cloud & Edge Computing &nbsp;|&nbsp;
-  📦 Resource Management & Scheduling &nbsp;|&nbsp;
-  🌐 Cyber-Physical Systems & Digital Twins
+  📦 Scheduling & Resource Management &nbsp;|&nbsp;
+  🌐 Digital Twins & CPS
+  </sub>
 </p>
 
-### 🔬 Research Interests
+<p align="center">
+  <sub>Research focus: AI-driven decision-making and optimization for dynamic systems.</sub>
+</p>
 
-My research interests focus on **AI-driven decision-making and intelligent optimization for dynamic systems**, particularly:
-
-* Reinforcement Learning & Deep Reinforcement Learning
-* AI-based Decision Making & Intelligent Optimization
-* Cloud & Edge Computing
-* Resource Management & Scheduling
-* Cyber-Physical Systems & Digital Twins
-
-### 🎓 Education
-
-**M.Sc. in Computer Engineering** — University of Isfahan, Iran
-**B.Sc. in Computer Engineering** — Shiraz University, Iran
-
-### 🛠️ Technical Skills
-
-**Python | PyTorch | Keras | C/C++ | MATLAB | Git/GitHub | Unity | MQTT | Linux**
-
-📫 [Email](mailto:behnaz.khajeh@email.com) · [LinkedIn](https://www.linkedin.com/in/behnazkhajeh)
+<p align="center">
+  <sub>
+  <a href="mailto:behnaz.khajeh@email.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/behnazkhajeh">🔗 LinkedIn</a>
+  </sub>
+</p>
